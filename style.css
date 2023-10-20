@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.container .btn{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-size: 30px;
+    text-align: center;
+    background-color: aqua;
+    cursor: pointer;
+    padding: 16px;
+    border-radius: 16px;
+}
+.container .btn:hover{
+    color: white;
+    background-color: black;
+}
+.container .line{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+.container img{
+    margin: 0%;
+    padding: 0%;
+    top: 10%;
+    left: 20%;
+}
+
